@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Manoj
 
 💻 Passionate developer | 🚀 Open-source enthusiast | 🌱 Always learning  
 
